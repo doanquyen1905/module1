@@ -1,0 +1,7 @@
+
+gitgit remote add origin : lien ket giuax local vs remote
+git add dua file vao bo nho staged
+git commit : ghi nhan cac su thay doi
+git push : dua cac thay doi tu local len remote
+git clone : tai remote ve local
+git pull : cap nhat tu remote ve local
